@@ -26,7 +26,7 @@ Lien pour avoir l'API gratuitement, il suffit de s'inscrire pour pouvoir recevoi
 - Créer une fonction pour recevoir et afficher la T° ainsi que la ville choisie par l' utilisateur.
 
 ---
-
+## Mise en place de la géolocalisation
 ### Étape 2.1:
 
 - Isolation de la variable qui contient la ville à utiliser.
